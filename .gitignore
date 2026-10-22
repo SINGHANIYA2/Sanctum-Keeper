@@ -1,0 +1,14 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+node_modules/
+dist/
+out/
+build/
+.env
+*.db
+*.db-wal
+*.db-shm
